@@ -3,5 +3,5 @@ fer==25.10.3
 tensorflow==2.12.0
 mtcnn==0.1.1
 opencv-python-headless==4.8.1.78
-numpy==1.27.0
+numpy==1.23.5
 Pillow==10.1.0
