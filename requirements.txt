@@ -1,0 +1,7 @@
+streamlit==1.29.0
+fer==23.4.0
+tensorflow==2.13.2
+mtcnn==0.1.1
+opencv-python-headless==4.8.1.78
+numpy==1.27.0
+Pillow==10.1.0
